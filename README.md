@@ -34,12 +34,12 @@ This project implements classic **statistical language models** from scratch, us
 
 ---
 
-## 📁 Project Structure
+## 📁 Repo Structure
 
-ngram-language-models/
-├── Unigram_LM.ipynb
-├── Unigram_LM_Japanese.ipynb
-├── Ngram_Text_Correction.ipynb
+ngram-language-models/  
+├── Unigram_LM.ipynb  
+├── Unigram_LM_Japanese.ipynb  
+├── Ngram_Text_Correction.ipynb  
 └── README.md
 
 ---
